@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobshute (aka jcabo)
 - 👀 I’m interested in lots of stuff!
-- 🌱 I’m currently working on some Excel macros and building a project manager website
+- 🌱 I’m currently working on a command line solitaire game in dart and some other stuff...
 
 
 <!---
